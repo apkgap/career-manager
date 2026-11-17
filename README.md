@@ -2,10 +2,6 @@
 
 ปลั๊กอินระบบ **ร่วมงานกับเรา / ประกาศรับสมัครงาน (Career & Job Opportunities)** แบบ **Standalone 100%** สร้างแยกเป็นปลั๊กอินอิสระเพื่อให้นำไปติดตั้งและใช้งานในทุกโปรเจกต์ WordPress ได้ทันทีโดยไม่พึ่งพาธีมเดิม
 
-<img width="1494" height="969" alt="Screenshot 2026-11-18 001029" src="https://github.com/user-attachments/assets/8c757181-ba32-471f-9687-7d858121f2df" />
-<img width="410" height="698" alt="Screenshot 2026-11-18 003702" src="https://github.com/user-attachments/assets/78caae98-2ae1-4b5c-8c58-c215c068516e" />
-<img width="424" height="753" alt="Screenshot 2026-11-18 003754" src="https://github.com/user-attachments/assets/0a7c396b-4202-4a8d-98fc-37951dfa35ca" />
-
 ---
 
 ## ตัวอย่างการแสดงผล (UI Preview)
